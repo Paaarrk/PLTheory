@@ -2,6 +2,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Week7Practice",
+            "request": "launch",
+            "mainClass": "Week7Practice",
+            "projectName": "PL-2023_3833f5e2"
+        },
+        {
+            "type": "java",
+            "name": "Week5CRT",
+            "request": "launch",
+            "mainClass": "Week5CRT",
+            "projectName": "PL-2023_3833f5e2"
+        },
+        {
+            "type": "java",
             "name": "week4",
             "request": "launch",
             "mainClass": "week4",
